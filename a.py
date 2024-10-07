@@ -7,7 +7,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJ_DATA = '/Users/mmir/Library/CloudStorage/Dropbox/git/14A20240924CSF_find_sibs_based_on_kinship'
+PROJ_DATA = '/Users/mmir/Library/CloudStorage/Dropbox/git/14A20240924_find_sibs_based_on_kinship_CSF'
 PROJ_DATA = Path(PROJ_DATA)
 
 
